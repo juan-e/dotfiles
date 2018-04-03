@@ -1,0 +1,5 @@
+# Umich GitLab
+Host gitlab
+	HostName gitlab.com
+	user git
+	IdentityFile ~/ssh/joncv_rsa
